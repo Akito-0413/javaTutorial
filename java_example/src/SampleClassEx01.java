@@ -21,3 +21,5 @@ public class SampleClassEx01{
 		return this.value;
 	}
 }
+
+//静的メンバには、必ずstaticの修飾子をつける
